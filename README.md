@@ -12,7 +12,7 @@ The order of execution should be:
 - eval-model.ipynb
 - conditional-model-upload.ipynb
 
-The `load-data.ipynb` step takes the following step parameters:
+The `load-data.py` step takes the following step parameters:
 
 ```json
 {
