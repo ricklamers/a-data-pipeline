@@ -13,12 +13,13 @@ The order of execution should be:
 - conditional-model-upload.ipynb
 
 For data passing the following connections need to be created:
-load-data.py -> data-viz.ipynb
-load-data.py -> split-data.ipynb
-split-data.ipynb -> train-linear-model.ipynb
-split-data.ipynb -> eval-model.ipynb
-train-linear-model.ipynb -> eval-model.ipynb
-eval-model.ipynb -> conditional-model-upload.ipynb
+
+- load-data.py -> data-viz.ipynb
+- load-data.py -> split-data.ipynb
+- split-data.ipynb -> train-linear-model.ipynb
+- split-data.ipynb -> eval-model.ipynb
+- train-linear-model.ipynb -> eval-model.ipynb
+- eval-model.ipynb -> conditional-model-upload.ipynb
 
 The `load-data.py` step takes the following step parameters:
 
