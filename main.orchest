@@ -29,7 +29,7 @@
         },
         "695027ee-a7cd-4183-807e-a5f6118e7bd9": {
             "environment": "39fc8041-ec63-4415-a771-76e9193bc626",
-            "file_path": "load-data.ipynb",
+            "file_path": "load-data.py",
             "incoming_connections": [],
             "kernel": {
                 "display_name": "Python 3",
