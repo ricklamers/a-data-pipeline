@@ -1,8 +1,6 @@
 ### A simple pipeline in Orchest
 
-Check out the notebooks.
-
-The order of execution should be
+The order of execution should be:
 
 - load-data.ipynb
 - data-viz.ipynb
