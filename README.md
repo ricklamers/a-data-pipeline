@@ -1,7 +1,6 @@
-### A simple pipeline in Orchest
+### A data pipeline in Orchest
 
 The goal is to create a pipeline in Orchest and run it as a weekly cron job. The starting point is this repository of files.
-
 
 The order of execution should be:
 
